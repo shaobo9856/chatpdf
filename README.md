@@ -19,4 +19,6 @@ streamlit run app.py
 
 
 sudo docker build -t myapp .
+
+
 sudo docker run -d -p 8502:8501 myapp
